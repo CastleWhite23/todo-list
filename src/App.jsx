@@ -1,9 +1,9 @@
 import { useState } from 'react'
 import "./App.css"
-import Todo from './components/todo';
-import TodoForm from './components/todoForm';
-import Search from './components/Search';
-import Filter from './components/Filter';
+import Todo from './components/Todo.jsx';
+import TodoForm from './components/TodoForm.jsx';
+import Search from './components/Search.jsx';
+import Filter from './components/Filter.jsx';
 
 function App() {
 
